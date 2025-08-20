@@ -60,7 +60,7 @@
 
 ## 📜 Certifications
 
-- [Oracle Certified Java Professional (Java SE-17)](https://-/)  
+- [Oracle Certified Java Professional (Java SE-17)](https://drive.google.com/file/d/1ycNO4J049yFEXbpdS_8hLRT_pz7ROQ_v/view)  
 - [IBM Introduction to Cloud](https://courses.adroitprolearn.skillsnetwork.site/certificates/d653b63a76d94c7f94488bff211ddcc6)  
 - [Industrial IoT Markets and Security](https://www.coursera.org/account/accomplishments/verify/482WRKQOJKY3)  
 - [Flutter Development with Dart](https://www.udemy.com/certificate/UC-000c5650-069e-4709-b83e-8b1f4f945496/)
@@ -87,8 +87,8 @@
 
 - **Competitive Programming**:  
   Solved problems on LeetCode.  
-  3-star Java rating on HackerRank.  
+  4-star Java rating on HackerRank.  
 
 - **Hackathons**:  
-  Participated in multiple college-level hackathons and coding competitions, showcasing teamwork and rapid prototyping skills.
+  Participated in multiple hackathons and coding competitions, showcasing teamwork and rapid prototyping skills.
 
